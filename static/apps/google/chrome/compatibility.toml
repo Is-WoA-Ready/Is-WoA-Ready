@@ -1,0 +1,15 @@
+[[versions]]
+version = "1.0.0"
+contributor = "Hayden Chang"
+date = "2024-12-30"            # YYYY-MM-DD UTC
+compatibility = "incompatible"
+beta = true
+latest = false
+
+[[versions]]
+version = "1.0.1"
+contributor = "Hayden Chang"
+date = "2024-12-31"
+compatibility = "native"
+beta = true
+latest = true

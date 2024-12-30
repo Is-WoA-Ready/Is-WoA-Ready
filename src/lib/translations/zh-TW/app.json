@@ -1,0 +1,22 @@
+{
+	"does-app-woa-ready": "{{app}} 可以在 WoA 運作了嗎？",
+	"incompatible": "抱歉，此應用程式目前不支援 Windows on Arm。({{version}})",
+	"compatible-emulation": "此應用程式可在模擬環境中於 Windows on Arm 運作。({{version}})",
+	"compatible-native": "此應用程式可原生運作於 Windows on Arm。({{version}})",
+	"compatible-unknown": "我們尚不知道此應用程式是否可以在 Windows on Arm 運作。({{version}})",
+	"category": "類別",
+	"tags": "標籤",
+	"visit-website": "前往網站",
+	"tested-versions": "已測試版本",
+	"version": "版本",
+	"contributor": "測試人員",
+	"date": "日期",
+	"compatibility": "相容性",
+	"beta": "測試版",
+	"latest": "最新版",
+	"compatibility-incompatible": "不相容",
+	"compatibility-emulation": "模擬",
+	"compatibility-native": "原生",
+	"compatibility-unknown": "未知",
+	"discussions": "討論"
+}

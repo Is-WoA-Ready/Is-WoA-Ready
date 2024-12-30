@@ -1,0 +1,22 @@
+{
+	"does-app-woa-ready": "Does {{app}} WoA Ready?",
+	"incompatible": "Sorry, this app does not support Windows on Arm. ({{version}})",
+	"compatible-emulation": "This app is running under emulation. ({{version}})",
+	"compatible-native": "This app is running natively on Windows on Arm. ({{version}})",
+	"compatibile-unknown": "Compatibility unknown. ({{version}})",
+	"category": "Category",
+	"tags": "Tags",
+	"visit-website": "Visit Website",
+	"tested-versions": "Tested Versions",
+	"version": "Version",
+	"contributor": "Contributor",
+	"date": "Date",
+	"compatibility": "Compatibility",
+	"beta": "Beta",
+	"latest": "Latest",
+	"compatibility-incompatible": "Incompatible",
+	"compatibility-emulation": "Emulation",
+	"compatibility-native": "Native",
+	"compatibility-unknown": "Unknown",
+	"discussions": "Discussions"
+}
